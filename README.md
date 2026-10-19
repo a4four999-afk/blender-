@@ -1,5 +1,4 @@
-blender计时器v1.3.0
-
+model help 
 我自己在使用blender建模或者绑定时候用到的插件
 [禁止二次分发]
 
